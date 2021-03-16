@@ -1,0 +1,12 @@
+body{ background-color:#EAF6F6;}
+
+hr{ /*This is to customize <hr>. You can also customize borders*/
+  border-style: none; /*This is to specify that you don't want a border style in your boxes for hr*/
+  border-top-style: dotted;/*This is to specify that you only want the top border used in your boxes for hr*/
+  border-color: #00ced1;
+  border-width: 5px;
+  width: 5%;}
+
+  h1{color:#008b8b; font-style:oblique;}
+  h3{color:#66BFBF; font-family: "Arial";}
+  /*If you want a nice color go to colorhunt.co or to https://developer.mozilla.org/en-US/docs/Web/CSS/color_value*/
